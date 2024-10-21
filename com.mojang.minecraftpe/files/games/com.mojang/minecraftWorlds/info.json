@@ -1,0 +1,14 @@
+[
+    {
+        "path": "1.21.22",
+        "description": "A normal 1.21.22 world without experiments enabled"
+    },
+    {
+        "path": "1.21.31",
+        "description": "A normal 1.21.31 world with all experiments enabled"
+    },
+    {
+        "path": "aI0i0IHkVjk=",
+        "description": "A normal 1.21.31 world without experiments enabled and without world icon"
+    }
+]
