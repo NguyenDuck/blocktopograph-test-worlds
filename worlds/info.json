@@ -1,0 +1,26 @@
+[
+    {
+        "path": "1.21.22",
+        "description": "A normal 1.21.22 world without experiments enabled"
+    },
+    {
+        "path": "1.21.31",
+        "description": "A normal 1.21.31 world with all experiments enabled"
+    },
+    {
+        "path": "1.21.30 delete world icon",
+        "description": "A normal 1.21.31 world without experiments enabled and without world icon"
+    },
+    {
+        "path": "1.21.30 delete world icon - Copy",
+        "description": "A copy of '1.21.30 delete world icon' world"
+    },
+    {
+        "path": "1.21.30 flat world",
+        "description": "A default flat world without world icon"
+    },
+    {
+        "path": "1.21.44 loaded 8 chunks around",
+        "description": "A normal world with add-on to save 8 chunks around player"
+    }
+]
