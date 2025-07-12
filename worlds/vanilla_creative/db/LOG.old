@@ -1,0 +1,4 @@
+Recovered manifest with next_file=25 manifest_num=24 log_num=20 prev_log_num=0 last_seq=14970
+reusing manifest "./tests/assets/tests_worlds/worlds\\vanilla_creative/db\\MANIFEST-000007"
+Recovering log file "\\\\?\\F:\\Projects\\blocktopograph\\tests\\assets\\tests_worlds\\worlds\\vanilla_creative\\db\\000020.log"
+reusing log file "\\\\?\\F:\\Projects\\blocktopograph\\tests\\assets\\tests_worlds\\worlds\\vanilla_creative\\db\\000020.log"
